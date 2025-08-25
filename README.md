@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hifzaan</h1>
 <h3 align="center">A passionate certified AWS Fullstack Dev from India</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hifzaanDev" alt="hifzaanDev" /> </p>
+
 - 🔭 I’m currently working on [aicasca.click](https:/aicasca.click)
 
 - 🌱 I’m currently learning **docker , react.js and next.js**
