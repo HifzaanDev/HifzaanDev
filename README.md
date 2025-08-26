@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifzaanDev&show_icons=true&locale=en&layout=compact" alt="hifzaanDev" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hifzaanDev&show_icons=true&locale=en" alt="hifzaanDev" /></p>
+
 
 
 
