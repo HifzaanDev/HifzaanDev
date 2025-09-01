@@ -2,7 +2,7 @@
 <h3 align="center">A passionate certified AWS Fullstack Dev from India</h3>
 
 
-- 🔭 I’m currently working on [aicasca.click](https:/aicasca.click)
+- 🔭 I’m currently working on [aicasca.click](https://aicasca.click)
 
 - 🌱 I’m currently learning **docker , react.js and next.js**
 
