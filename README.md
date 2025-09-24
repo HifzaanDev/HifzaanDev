@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hifzaan</h1>
-<h3 align="center">A passionate certified AWS Fullstack Dev from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+AWS+SAA+Certified%3B%F0%9F%92%BB+Full+Stack+Developer%3B%F0%9F%91%AB+Open+Source+Contributor%3B%F0%9F%94%AC+DevOps%2C+MERN+%26+Go" alt="Typing SVG" />
+</div>
 
 
-- 🔭 I’m currently working on [aicasca.click](https://aicasca.click)
 
-- 🌱 I’m currently learning **docker , react.js and next.js**
+<div align="center">
+  
+[![casca-ai](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=casca-ai&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/casca-ai)
+[![indibookingV2.2](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=indibookingV2.2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/indibookingV2.2)
+[![GO-GIN-JWT](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=GO-GIN-JWT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/GO-GIN-JWT)
+[![CRM-App](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=CRM-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/CRM-App)
 
-- 👯 I’m looking to collaborate on **scalable cloud-based web applications.**
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDb, Javascript, HTML/CSS3, Docker and AWS.**
-
-- 📫 How to reach me **mohammadhifzan24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AN8OW6nRs54H4agTpqPttyZxXnbXBnXt/view?usp=sharing](https://drive.google.com/file/d/1AN8OW6nRs54H4agTpqPttyZxXnbXBnXt/view?usp=sharing)
-
-- ⚡ Fun fact **I find js syntax amusing!**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hifzaan-mohammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hifzaan-mohammad" height="30" width="40" /></a>
@@ -24,12 +22,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifzaanDev&show_icons=true&locale=en&layout=compact" alt="hifzaanDev" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HifzaanDev)](https://git.io/streak-stats)
 
 
 
 
+
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HifzaanDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HifzaanDev&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HifzaanDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
+  
+
+---
 
 
 
