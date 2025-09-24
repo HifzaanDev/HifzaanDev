@@ -5,15 +5,22 @@
 
 
 
-<div align="center">
-  
-[![casca-ai](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=casca-ai&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/casca-ai)
-[![indibookingV2.2](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=indibookingV2.2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/indibookingV2.2)
-[![GO-GIN-JWT](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=GO-GIN-JWT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/GO-GIN-JWT)
-[![CRM-App](https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=CRM-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/HifzaanDev/CRM-App)
-
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/HifzaanDev/casca-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=casca-ai&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F" />
+  </a>
+  <a href="https://github.com/HifzaanDev/indibookingV2.2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=indibookingV2.2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F" />
+  </a>
+  <a href="https://github.com/HifzaanDev/GO-GIN-JWT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=GO-GIN-JWT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F" />
+  </a>
+  <a href="https://github.com/HifzaanDev/CRM-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HifzaanDev&repo=CRM-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F" />
+  </a>
 
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hifzaan-mohammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hifzaan-mohammad" height="30" width="40" /></a>
