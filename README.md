@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hifzaan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HifzaanDev&label=Profile%20views&color=0e75b6&style=flat" alt="hif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+AWS+SAA+Certified%3B%F0%9F%92%BB+Full+Stack+Developer%3B%F0%9F%91%AB+Open+Source+Contributor%3B%F0%9F%94%AC+DevOps%2C+MERN+%26+Go" alt="Typing SVG" />
