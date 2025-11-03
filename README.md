@@ -41,7 +41,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+MY+HACKTOBERFEST'25+CONTRIBUTIONS:" alt="Typing SVG" />
 </div>
 
-
+[![An image of @hifzaandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=hifzaandev)](https://holopin.io/@hifzaandev)
 
 
 
