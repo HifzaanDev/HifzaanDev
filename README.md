@@ -37,6 +37,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+MY+HACKTOBERFEST'25+CONTRIBUTIONS:" alt="Typing SVG" />
+</div>
+
 
 [![@hifzaandev's Holopin board](https://holopin.io/api/user/board?user=hifzaandev)](https://holopin.io/@hifzaandev)
 
