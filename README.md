@@ -30,9 +30,10 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HifzaanDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+<p align="center">
+  <!-- Contribution & Repo Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HifzaanDev&theme=solarized_dark" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
 
